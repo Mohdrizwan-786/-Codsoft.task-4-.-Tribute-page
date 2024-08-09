@@ -1,1 +1,1 @@
-# -Codsoft.task-4-.-Tribute-page
+# Codsoft.task-4.Tribute-page
